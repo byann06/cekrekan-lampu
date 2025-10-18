@@ -1,0 +1,23 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    background: linear-gradient(to bottom, #13e65dd7, #154A26);
+}
+
+.font {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 768;
+    font-style: normal;
+    font-size: large;
+    color: white;
+    min-width: 15vw; 
+}
+
